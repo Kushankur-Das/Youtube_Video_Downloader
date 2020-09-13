@@ -1,6 +1,7 @@
   
 #Downloading Single Video
 # Install pytube library by using command "pip install pytube3"
+# Use the code in a Jupyter notebook platform or any other which supports .ipynb extension
 
 from pytube import YouTube
 import os
